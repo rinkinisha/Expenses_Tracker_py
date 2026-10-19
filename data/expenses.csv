@@ -1,0 +1,4 @@
+id,title,amount,category,date,notes
+1,Lunch,250.0,Food,2026-09-25,Office lunch
+2,food,250.0,lunch,2026-10-19,
+3,string,1.0,string,2026-10-19,string
